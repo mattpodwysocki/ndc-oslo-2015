@@ -1,12 +1,20 @@
-# NDC Oslo 2015 Presentations
+# Cloud-Scale Event Processing with the Reactive Extensions (Rx) #
 
-This repository contains the presentations for [NDC Olso 2015](http://ndcoslo.com)
-- [Cloud-Scale Event Processing with the Reactive Extensions (Rx)](all-scales/readme.md)
-- [Async and Streaming JavaScript, We're All Doing it Wrong!](doing-it-wrong/readme.md)
-- [Reactive Programming Demystified](reactive-programming/readme.md)
+This is a presentation of [Cloud-Scale Event Processing with the Reactive Extensions (Rx)](http://ndcoslo.oktaset.com/t-30173) at [NDC Oslo 2015](http://www.ndcoslo.com/).
+
+## Outline
+
+Come and see how reactive programming is used to build cloud-scale, low-latency, distributed event processing systems at Microsoft, powering end-user experiences such as the personal digital assistant 'Cortana'.In this session we'll show what it took to bring the concepts of Reactive Extensions (Rx) to the cloud to deal with latency, scale, reliability, and other concerns. You'll also learn about the core API abstractions that are used to represent event processing systems of any size across our stack, including the cloud as well as devices and sensors.
+
+## Resources
+
+Reference Material:
+- [ReactiveX.io](http://reactivex.io/)
+- [Rx.NET on GitHub](https://github.com/reactive-extensions/rx.net)
+- [Presentation (PDF)](all-scales.pdf)
 
 Contact Information:
-- [@ReactiveX](https://twitter.com/ReactiveX)
+- [@ReactiveX](https://twitter.com/reactivex)
 - [@mattpodwysocki](https://twitter.com/mattpodwysocki)
 
 # LICENSE

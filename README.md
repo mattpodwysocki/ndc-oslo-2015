@@ -3,7 +3,6 @@
 This repository contains the presentations for [NDC Olso 2015](http://ndcoslo.com)
 - [Cloud-Scale Event Processing with the Reactive Extensions (Rx)](all-scales/readme.md)
 - [Async and Streaming JavaScript, We're All Doing it Wrong!](doing-it-wrong/readme.md)
-- [Reactive Programming Demystified](reactive-programming/readme.md)
 
 Contact Information:
 - [@ReactiveX](https://twitter.com/ReactiveX)

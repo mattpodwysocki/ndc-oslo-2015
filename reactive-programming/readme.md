@@ -12,12 +12,15 @@ Reference Material:
 - [ReactiveX.io](http://reactivex.io/)
 - [RxJS on GitHub](https://github.com/reactive-extensions/rxjs)
 - [Presentation (PDF)](reactive-programming.pdf)
+- [RxMarbles](http://rxmarbles.com/)
+- [RxVision](http://jaredly.github.io/rxvision/)
 
 Reactive Programming:
-- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-- [Two Minute Introduction to RxJS](https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877)
-- [Reactive Programming and MVC](http://aaronstacy.com/writings/reactive-programming-and-mvc/)
-- [Visualizing Reactive Streams](http://jaredly.github.io/2015/03/06/visualizing-reactive-streams-hot-and-cold/)
+- Blogs:
+  - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+  - [Two Minute Introduction to RxJS](https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877)
+  - [Reactive Programming and MVC](http://aaronstacy.com/writings/reactive-programming-and-mvc/)
+  - [Visualizing Reactive Streams](http://jaredly.github.io/2015/03/06/visualizing-reactive-streams-hot-and-cold/)
 
 Functional Reactive Programming (FRP):
 - [What is Functional Reactive Programming](http://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming)
